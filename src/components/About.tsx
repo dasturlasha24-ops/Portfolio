@@ -115,7 +115,7 @@ export default function About() {
               <div>
                 <h4 className="text-lg font-display font-bold text-white">Afzalbek</h4>
                 <p className="text-xs font-mono text-indigo-400 mt-1">Full-Stack Dasturchi</p>
-                <p className="text-[10px] font-mono text-gray-500 mt-0.5">Toshkent, O'zbekiston</p>
+                <p className="text-[10px] font-mono text-gray-500 mt-0.5">Namangan, O'zbekiston</p>
               </div>
               <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-[10px] font-mono text-emerald-400">
                 <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-ping shrink-0" />
@@ -129,7 +129,7 @@ export default function About() {
                 Biznesingizni Avtomatlashtirish va Raqamlashtirish bo'yicha Shaxsiy Hamkoringiz
               </h3>
               <p className="text-gray-300 text-xs sm:text-sm font-light leading-relaxed">
-                Salom! Mening ismim <span className="text-white font-medium">Afzalbek</span>. Men biznes va shaxsiy brendlar uchun zamonaviy, estetik dizaynli va o'ta tezkor dasturiy yechimlar yaratuvchi dasturchiman.
+                Salom! Mening ismim <span className="text-white font-medium">Afzalbek</span>. Men biznes va shaxsiy brendlar uchun estetik dizaynga ega Premium Web-saytlar, Mobil Ilovalar (Web-to-App) hamda zamonaviy tizimlar yaratuvchi dasturchiman.
               </p>
               <p className="text-gray-300 text-xs sm:text-sm font-light leading-relaxed">
                 Mening maqsadim — shunchaki kod yozish emas, balki sizning biznesingizdagi muammolarni bartaraf etib, daromadingiz oshishiga xizmat qiladigan mahsulot topshirishdir. <span className="text-fuchsia-300 font-semibold">Oddiy loyihalardan</span> boshlab, eng yuqori darajadagi <span className="text-indigo-300 font-semibold">Premium loyihalargacha</span> mukammal sifatda ishlab chiqaman.

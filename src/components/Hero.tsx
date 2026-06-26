@@ -79,7 +79,7 @@ export default function Hero({ onStartProject }: HeroProps) {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-gray-300 text-base sm:text-lg max-w-xl mx-auto lg:mx-0 font-light leading-relaxed"
             >
-              Mening ismim <span className="text-white font-medium">Afzalbek</span>. Men biznes va shaxsiy brendlar uchun estetik dizaynga ega, o'ta tezkor veb-saytlar, Telegram botlar hamda avtomatlashtirilgan CRM tizimlar ishlab chiqaman.
+              Mening ismim <span className="text-white font-medium">Afzalbek</span>. Men biznes va shaxsiy brendlar uchun estetik dizaynga ega Premium Web-saytlar, Mobil Ilovalar (Web-to-App) hamda zamonaviy tizimlar ishlab chiqaman.
             </motion.p>
 
             {/* CTAs */}

@@ -82,38 +82,6 @@ export const SERVICES: Service[] = [
     ]
   },
   {
-    id: 'srv-bot',
-    title: 'Aqlli Telegram Botlar',
-    shortDescription: 'Biznes jarayonlarni avtomatlashtiruvchi va sotuvni oshiruvchi botlar.',
-    detailedDescription: 'Foydalanuvchilar bilan 24/7 aloqada bo\'ladigan, mahsulotlarni to\'g\'ridan-to\'g\'ri Telegram ichida sotadigan yoki mijozlar ro\'yxatini yurituvchi kuchli botlar. API integratsiyalar va to\'lov tizimlari bilan jihozlanadi.',
-    iconName: 'Bot',
-    basePrice: '200$',
-    deliveryTime: '4-8 kun',
-    popularFeatures: [
-      'Telegram WebApp (saytni bot ichida ochish)',
-      'Click/Payme to\'lov integratsiyasi',
-      'Admin boshqaruv tizimi',
-      'Foydalanuvchilarga reklama jo\'natish',
-      'Excel formatida hisobot yuklash'
-    ]
-  },
-  {
-    id: 'srv-crm',
-    title: 'CRM va Shaxsiy Tizimlar',
-    shortDescription: 'Biznesingizdagi tartibsizliklarni yo\'qotuvchi CRM/SaaS dasturlar.',
-    detailedDescription: 'O\'quv markazlari, savdo do\'konlari, ishlab chiqarish korxonalari yoki ofislar uchun darslar, xodimlar, mijozlar va moliya hisobini yurituvchi shaxsiy boshqaruv tizimlari. Har bir tizim aynan sizning biznesingizga moslab yoziladi.',
-    iconName: 'LayoutDashboard',
-    basePrice: '600$',
-    deliveryTime: '15-30 kun',
-    popularFeatures: [
-      'Xodimlar va mijozlar bazasi',
-      'Grafikli tahlillar va hisobotlar',
-      'Rollar tizimi (Admin, Menajer, Moliyachi)',
-      'Avtomatlashtirilgan bildirishnomalar',
-      'Excel, PDF eksport/import imkoniyati'
-    ]
-  },
-  {
     id: 'srv-mobile',
     title: 'Mobil Ilovalar (Web-to-App)',
     shortDescription: 'iOS va Android uchun foydalanuvchilarga qulay mobil ilovalar.',

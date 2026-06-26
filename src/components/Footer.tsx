@@ -52,7 +52,7 @@ export default function Footer() {
 
           {/* Quick links */}
           <div className="md:col-span-4 flex flex-col items-center md:items-start space-y-3 font-mono text-xs">
-            <span className="text-gray-400 uppercase tracking-widest font-bold text-[10px]">Toshkent, O'zbekiston</span>
+            <span className="text-gray-400 uppercase tracking-widest font-bold text-[10px]">Namangan, O'zbekiston</span>
             <div className="flex flex-col space-y-2 items-center md:items-start text-gray-400">
               <a href="#about" className="hover:text-indigo-300 transition-colors">Men haqimda</a>
               <a href="#services" className="hover:text-indigo-300 transition-colors">Xizmatlar & Narxlar</a>
@@ -63,7 +63,7 @@ export default function Footer() {
           {/* Real-time Uzbekistan Clock and Social Icons */}
           <div className="md:col-span-3 flex flex-col items-center md:items-end space-y-4 text-center md:text-right font-mono">
             <div>
-              <span className="text-gray-500 text-[10px] uppercase block">Toshkent vaqti (GMT+5)</span>
+              <span className="text-gray-500 text-[10px] uppercase block">Namangan vaqti (GMT+5)</span>
               <span className="text-sm font-semibold text-indigo-300 bg-[#030712] border border-white/10 px-3 py-1.5 rounded-xl block mt-1.5 shadow-inner">
                 {time || '00:00:00'}
               </span>
