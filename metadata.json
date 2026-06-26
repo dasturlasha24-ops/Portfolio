@@ -1,0 +1,6 @@
+{
+  "name": "Afzalbek Portfolio",
+  "description": "Premium va estetik interaktiv portfolio hamda biznes loyihalar yaratish so'rovlari interfeysi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
